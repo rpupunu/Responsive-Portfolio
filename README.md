@@ -1,2 +1,2 @@
-# Responsive-Portfolio
-Responsive multi-device Week 2 Homework
+# Basic-Portfolio
+First Week Homework - RJ Pupunu
